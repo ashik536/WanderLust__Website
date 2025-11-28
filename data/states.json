@@ -1,0 +1,214 @@
+[
+  {
+    "name": "Andhra Pradesh",
+    "image": "/images/1.jpg",
+    "intro": "Andhra Pradesh features scenic coastline, historical temples, and cultural heritage like Kuchipudi dance.",
+    "culture": "Known for Telugu literature, distinctive cuisine (pappu, spicy curries), Kuchipudi dance, and vibrant temple festivals.",
+    "popular": ["Tirupati","Araku Valley","Visakhapatnam","Vijayawada"]
+  },
+  {
+    "name": "Arunachal Pradesh",
+    "image": "/images/2.jpg",
+    "intro": "Arunachal Pradesh offers pristine mountains, tribal cultures, and high-altitude monasteries.",
+    "culture": "Home to many tribes with distinct languages and rich traditions; festivals center on harvest and local rituals.",
+    "popular": ["Tawang","Ziro Valley","Namdapha National Park"]
+  },
+  {
+    "name": "Assam",
+    "image": "/images/3.jpg",
+    "intro": "Assam is famed for the Brahmaputra River, lush tea gardens, rich wildlife, and the Kaziranga National Park.",
+    "culture": "Assamese culture features Bihu festivals, classical music and dance, and world-famous teas.",
+    "popular": ["Guwahati","Kaziranga","Majuli","Tea Gardens"]
+  },
+  {
+    "name": "Bihar",
+    "image": "/images/4.jpg",
+    "intro": "Bihar is a historically significant state with Buddhist heritage sites, rivers, and ancient universities.",
+    "culture": "Known for its classical and folk music, the ancient Nalanda and Vikramshila centers, and Maithili art and cuisine.",
+    "popular": ["Bodh Gaya","Patna","Nalanda","Rajgir"]
+  },
+  {
+    "name": "Chhattisgarh",
+    "image": "/images/5.jpg",
+    "intro": "Chhattisgarh is rich in forests, waterfalls, tribal culture, and ancient forts.",
+    "culture": "Home to many tribal communities with distinct art, dance (such as the Raut Nacha), and traditional crafts.",
+    "popular": ["Chitrakote Falls","Barnawapara Wildlife","Bastar"]
+  },
+  {
+    "name": "Goa",
+    "image": "/images/6.jpg",
+    "intro": "Goa is a coastal state known for its laid-back culture, Portuguese heritage, and sandy beaches.",
+    "culture": "A mix of Indian and Portuguese traditions reflected in food, music, and religious festivals; renowned for Goa Carnival and seafood cuisine.",
+    "popular": ["Baga","Anjuna","Old Goa","Palolem"]
+  },
+  {
+    "name": "Gujarat",
+    "image": "/images/7.jpg",
+    "intro": "Gujarat hosts signature heritage sites, the Rann of Kutch, and varied landscapes from deserts to coasts.",
+    "culture": "Gujarati culture includes traditional dance (Garba), handicrafts, religious festivals like Navratri, and distinctive vegetarian cuisine.",
+    "popular": ["Ahmedabad","Gir National Park","Rann of Kutch","Somnath"]
+  },
+  {
+    "name": "Haryana",
+    "image": "/images/8.jpg",
+    "intro": "Haryana is an agricultural and industrial state nearby Delhi with historical sites and robust rural culture.",
+    "culture": "Known for folk dances like Ghoomar, Punjabi-influenced cuisine, wrestling & sports, and regional festivals.",
+    "popular": ["Kurukshetra","Gurugram","Panchkula"]
+  },
+  {
+    "name": "Himachal Pradesh",
+    "image": "/images/9.jpg",
+    "intro": "Himachal Pradesh is a mountainous state known for hill stations, valleys, and mountain sports.",
+    "culture": "Himachalese culture across valleys includes unique hill festivals, traditional dress, and local cuisines; popular for trekking and winter sports.",
+    "popular": ["Shimla","Manali","Dharamshala","Kullu"]
+  },
+  {
+    "name": "Jharkhand",
+    "image": "/images/10.jpg",
+    "intro": "Jharkhand features forests, waterfalls, and tribal heritage with a strong mining and industrial presence.",
+    "culture": "Tribal folk traditions and dances, local crafts, and festivals like Karma; cuisine often uses fresh forest produce.",
+    "popular": ["Ranchi","Jamshedpur","Betla National Park"]
+  },
+  {
+    "name": "Karnataka",
+    "image": "/images/11.jpg",
+    "intro": "Karnataka blends historic palaces, ancient temples, bustling cities, and scenic hill stations.",
+    "culture": "Karnataka is known for Carnatic music, Yakshagana theatre, rich Kannada literature, and unique coastal and Mysore cuisines.",
+    "popular": ["Bengaluru","Mysore","Hampi","Coorg","Udupi"]
+  },
+  {
+    "name": "Kerala",
+    "image": "/images/12.jpg",
+    "intro": "Kerala, 'God's Own Country', is famed for tranquil backwaters, spice plantations, and rich performing arts.",
+    "culture": "Kerala's culture features Kathakali dance, Ayurveda, Onam festival, and varied cuisine dominated by coconut and spices.",
+    "popular": ["Munnar","Alleppey","Kovalam","Kochi"]
+  },
+  {
+    "name": "Madhya Pradesh",
+    "image": "/images/13.jpg",
+    "images": ["/images/13.jpg"],
+    "intro": "Madhya Pradesh is at the heart of India with rich wildlife, national parks, and historic temples and forts.",
+    "culture": "Home to classical music traditions, Gond art, tribal cultures and lively local festivals.",
+    "popular": ["Khajuraho","Bandhavgarh","Panna","Sanchi"]
+  },
+  {
+    "name": "Maharashtra",
+    "image": "/images/15.jpg",
+    "images": ["/images/15.jpg","/images/15.jpg"],
+    "intro": "Maharashtra includes Mumbai's urban hub, hill stations, historical forts, and diverse coastal beaches.",
+    "culture": "Maharashtrian culture includes Lavani dance, Ganesh Chaturthi festival, Marathi literature, and Maharashtrian cuisine.",
+    "popular": ["Mumbai","Pune","Aurangabad","Lonavala","Mahabaleshwar"]
+  },
+  {
+    "name": "Manipur",
+    "image": "/images/16.jpg",
+    "images": ["/images/16.jpg"],
+    "intro": "Manipur is a northeastern state with lakes, diverse tribes, and a strong classical dance tradition.",
+    "culture": "Known for Manipuri dance, rich handloom tradition, and the vibrant Lai Haraoba festival.",
+    "popular": ["Imphal","Loktak Lake","Moreh"]
+  },
+  {
+    "name": "Meghalaya",
+    "image": "/images/17.jpg",
+    "images": ["/images/17.jpg"],
+    "intro": "Meghalaya, 'abode of clouds', is famous for waterfalls, living root bridges, and hill towns.",
+    "culture": "Home to Khasi, Garo and Jaintia tribes with matrilineal societies; rich in folk music, crafts, and festivals.",
+    "popular": ["Shillong","Cherrapunji","Mawlynnong"]
+  },
+  {
+    "name": "Mizoram",
+    "image": "/images/18.jpg",
+    "images": ["/images/18.jpg"],
+    "intro": "Mizoram is a hilly northeastern state with scenic valleys, lakes, and tribal cultural heritage.",
+    "culture": "Rich in tribal dances, crafts, and traditions, with a strong emphasis on community festivals and handicrafts.",
+    "popular": ["Aizawl","Tuirial","Vantawng Falls"]
+  },
+  {
+    "name": "Nagaland",
+    "image": "/images/19.jpg",
+    "images": ["/images/19.jpg"],
+    "intro": "Nagaland showcases rich tribal cultures, festivals, and hilltop towns with panoramic views.",
+    "culture": "Noted for vibrant tribal festivals like Hornbill Festival, traditional crafts, and folk dances.",
+    "popular": ["Kohima","Dimapur","Mon"]
+  },
+  {
+    "name": "Odisha",
+    "image": "/images/20.jpg",
+    "images": ["/images/20.jpg"],
+    "intro": "Odisha is rich in ancient temples, beaches, classical dance, and textile arts.",
+    "culture": "The region is known for Odissi dance, Pattachitra art, and Jagannath culture with grand Rath Yatra festival.",
+    "popular": ["Puri","Konark","Chilika Lake","Bhubaneswar"]
+  },
+  {
+    "name": "Punjab",
+    "image": "/images/21.jpg",
+    "images": ["/images/21.jpg"],
+    "intro": "Punjab is the land of five rivers with abundant agriculture, strong folk traditions, and vibrant festivals.",
+    "culture": "Punjabi culture is famous for Bhangra, Giddha dance forms, Sikh heritage, and hearty cuisine like makki di roti and sarson da saag.",
+    "popular": ["Amritsar","Chandigarh","Jalandhar"]
+  },
+  {
+    "name": "Rajasthan",
+    "image": "/images/22.jpg",
+    "images": ["/images/22.jpg"],
+    "intro": "Rajasthan is famous for its desert landscapes, forts, palaces, and colorful cultural traditions.",
+    "culture": "Rajasthani music, folk dances (Ghoomar), elaborate royal cuisines, textiles, and festivals like Pushkar and Desert Festival.",
+    "popular": ["Jaipur","Udaipur","Jodhpur","Jaisalmer"]
+  },
+  {
+    "name": "Sikkim",
+    "image": "/images/23.jpg",
+    "images": ["/images/23.jpg"],
+    "intro": "Sikkim is a Himalayan state boasting scenic mountains, monasteries, and biodiversity.",
+    "culture": "A blend of Nepali, Bhutia, and Lepcha cultures with unique festivals, local music, and Buddhist monasteries.",
+    "popular": ["Gangtok","Nathu La","Yuksom","Tsomgo Lake"]
+  },
+  {
+    "name": "Tamil Nadu",
+    "image": "/images/image1.png",
+    "images": ["/images/image1.png"],
+    "intro": "Tamil Nadu is a southern state known for classical temples, music, dance, and iconic Dravidian architecture.",
+    "culture": "Tamil culture includes Carnatic music, classical dance Bharatanatyam, huge temple festivals, and rich Tamil literature and cuisine.",
+    "popular": ["Chennai","Madurai","Mahabalipuram","Ooty"]
+  },
+  {
+    "name": "Telangana",
+    "image": "/images/24.jpg",
+    "images": ["/images/24.jpg"],
+    "intro": "Telangana features Hyderabad's historic Charminar, a booming tech sector, and flavorful Hyderabadi cuisine.",
+    "culture": "Known for Deccani culture, rich Telugu dialects, Hyderabadi biryani, and traditional arts.",
+    "popular": ["Hyderabad","Warangal","Nalgonda"]
+  },
+  {
+    "name": "Tripura",
+    "image": "/images/25.jpg",
+    "images": ["/images/25.jpg"],
+    "intro": "Tripura is a small northeastern state with hilly terrain, palaces, and tribal culture.",
+    "culture": "Tripuri and other indigenous cultures dominate with unique handicrafts, dances, and local festivals.",
+    "popular": ["Agartala","Unakoti","Neermahal"]
+  },
+  {
+    "name": "Uttar Pradesh",
+    "image": "/images/26.jpg",
+    "images": ["/images/26.jpg"],
+    "intro": "Uttar Pradesh (UP) is a historically rich state including Mughal heritage and pilgrimage sites.",
+    "culture": "UP hosts important Hindu pilgrimage centers, Hindustani classical music traditions, and Mughlai cuisine.",
+    "popular": ["Agra","Varanasi","Lucknow","Mathura"]
+  },
+  {
+    "name": "Uttarakhand",
+    "image": "/images/27.jpg",
+    "images": ["/images/27.jpg"],
+    "intro": "Uttarakhand is a Himalayan state known for pilgrimage centers, hill stations, and treks.",
+    "culture": "Strong Himalayan traditions, Garhwali and Kumaoni cultures, and festivals linked to temples and seasonal cycles.",
+    "popular": ["Rishikesh","Haridwar","Nainital","Mussoorie"]
+  },
+  {
+    "name": "West Bengal",
+    "image": "/images/28.jpg",
+    "images": ["/images/28.jpg"],
+    "intro": "West Bengal blends colonial Kolkata, Sundarbans, hill stations, and a strong arts and literature scene.",
+    "culture": "Known for Rabindra Sangeet, Durga Puja festival, rich Bengali literature, cuisine, and classical arts.",
+    "popular": ["Kolkata","Darjeeling","Sundarbans","Shantiniketan"]
+  }
+]

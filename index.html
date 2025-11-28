@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Wanderlust</title>
+    <link rel="stylesheet" href="./css/style.css">
+</head>
+<body>
+    <!-- Copied from index!.html to avoid filename URL encoding issues -->
+    <nav class="navbar">
+    <img src="./images/logo.png" width="110px"  alt="">
+    <button class="nav-toggle" aria-label="Toggle navigation">☰</button>
+    <ul class="nav-links">
+        <li><a href="#home">Home</a></li>
+        <li><a href="#about">About</a></li>
+        <li><a href="#destinations">Destinations</a></li>
+        <li><a href="#contact" class="submit">Contact Us</a></li>
+
+    </ul>
+    </nav>
+    <section class="hero">
+        <h1 class="hero-title">Explore India With Us</h1>
+        <p class="hero-lead">Unforgettable adventures to every Amazing corner of the India</p>
+        <a href="#contact" class="hero-book">Book Now</a>
+    </section>
+    <section id="about" class="about">
+        <div class="about-layout">
+            <h2 class="about-section">About Us</h2>
+            <div class="about-content">
+                <div class="about-text">
+                    <p>Welcome to <strong>Wanderlust Adventures</strong> your gateway to unforgettable journeys across every breathtaking corner of India. Whether it's the snow-capped peaks of the Himalayas, the golden sands of Rajasthan, the lush greenery of the Western Ghats, or the vibrant streets of local cities, we bring you closer to the heart and soul of India.</p>
+
+                    <p>Our mission is to <strong>inspire and guide passionate travelers</strong> by offering curated experiences, travel tips, and hidden gems that turn every trip into a lasting memory.</p>
+                </div>
+                <div class="about-img">
+                    <img src="./images/about.png" width=320px alt="">
+                </div>
+            </div>
+        </div>
+
+    </section>
+    <section class="values">
+        <h2 class="value-head">Top Values for you</h2>
+        <p class="para">Try variety of benefits when using our service</p>
+        <div class="values-layout">
+            <div class="values-flex">
+                <img src="./images/icon-plane.png" alt="">
+                <h3>Flight Booking</h3>
+                <p>Book flights easily to any destination across India with Wanderlust Adventures</p>
+            </div>
+            <div class="values-flex">
+                <img src="./images/icon-hotel.png" alt="">
+                <h3>Hotel Reservation</h3>
+                <p>Find and book the perfect stay with Wanderlust Adventures.</p>
+            </div>
+            <div class="values-flex">
+                <img src="./images/icon-car.png" alt="">
+                <h3>Car Rental</h3>
+                <p>Explore India at your own pace with our reliable car rental services.</p>
+            </div>
+            <div class="values-flex">
+                <img src="./images/icon-adventure.png" alt="">
+                <h3>Adventure & Activity</h3>
+                <p>Fuel your wanderlust with thrilling adventures activities across India.</p>
+            </div>
+        </div>
+    </section>
+    <section id="destinations" class="destinations">
+        <h2 class="destination-head">Explore Indian States</h2>
+        <p class="destination-lead">Search states to view brief introductions, culture, and images</p>
+        <div class="destinations-grid" id="destinations-root">
+            <!-- React will render destinations here -->
+        </div>
+
+    </section>
+    <section id="contact" class="contact">
+    <h1 class="contact-head">Contact Us</h1>
+    <div class="contact-card">
+        <form id="contact" method="POST">
+        <div class="contact-item">
+            <h4>Name</h4>
+            <input type="text" name="name" placeholder="Enter your name" required>
+        </div>
+        <div class="contact-item">
+            <h4>Email Id</h4>
+            <input type="email" name="email" placeholder="Enter your Email Id" required>
+        </div>
+        <div class="contact-item">
+            <h4>Phone Number</h4>
+            <input type="text" name="phone" placeholder="Enter your Phone Number" required>
+        </div>
+        <div class="contact-item">
+            <h4>Travel Destination</h4>
+            <input type="text" name="destination" placeholder="Enter your Destination" required>
+        </div>
+        <div class="contact-item">
+            <h4>Message your special request</h4>
+            <textarea name="message" placeholder="Message" required></textarea>
+        </div>
+        <div class="text-centre">
+            <button type="submit" class="submit">Book Now</button>
+        </div>
+        </form>
+    </div>
+    </section>
+    
+    <footer class="footer">
+        <p>Copyright Tours and Travels. All Rights reserved</p>
+    </footer>
+        <!-- React + Babel (for lightweight development) -->
+        <script src="https://unpkg.com/react@18/umd/react.development.js" crossorigin></script>
+        <script src="https://unpkg.com/react-dom@18/umd/react-dom.development.js" crossorigin></script>
+        <script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
+        <script src="./js/site.js"></script>
+        <script type="text/babel" src="./js/app.js"></script>
+</body>
+</html>
